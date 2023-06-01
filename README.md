@@ -23,7 +23,7 @@ This project is a grade calculator implemented in Java. It allows you to enter a
 
 ## Explanation
 
-For a detailed explanation of the code and its implementation, you can refer to the [Code Explanation](https://github.com/Dennis290699/Calculadora_de_Notas/blob/main/Documents/Explanation_of_code.md) document.
+For a detailed explanation of the code and its implementation, you can refer to the [Code Explanation](https://github.com/Dennis290699/Calculadora_notas/blob/main/Documents/Code_Explanation.md) document.
 
 ## Contributing
 
